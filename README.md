@@ -7,7 +7,7 @@ flashgames-Decision3-中文无敌版
 
 修改游戏的快乐超过了游戏本身
 
-原版地址
+原版地址：
 
 https://store.steampowered.com/app/3015510/Decision_Legacy_Collection/
 
